@@ -1,4 +1,4 @@
-package com.example.game_tracker
+package com.example.prototype
 
 import io.flutter.embedding.android.FlutterActivity
 
